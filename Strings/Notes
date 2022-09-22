@@ -1,0 +1,6 @@
+# Algorithms used to shorten code lenth
+
+## Copy a string
+
+char a[],char[]
+strcpy(b,a) copies string a into b
