@@ -5,6 +5,10 @@ Frequently Used Codes &amp; Concepts
 
 use cin.getline(a,1000) to take char a[1000] as input
 
+### Find Length
+
+use strlen(a)
+
 ### Copy Char Arrays
 a,b be two char arrays,then
 
